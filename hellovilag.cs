@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace SoloLearn
+namespace hellovilag
 {
     class Program
     {
